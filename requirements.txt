@@ -1,0 +1,9 @@
+
+scikit-learn>=1.0
+xgboost>=1.7.0
+lightgbm>=3.3.0
+pandas
+numpy
+joblib
+streamlit
+torch>=2.0.0

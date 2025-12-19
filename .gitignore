@@ -1,0 +1,21 @@
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Data
+*.csv
+*.xlsx
+
+# Deep Learning Checkpoints (too large for GitHub, upload to HF Space)
+models/deep_learning_checkpoints/
+models/deep_learning_checkpoints_backup/
+models/*_multilabel_ovr.joblib
+models/*_smalllabel_*.joblib
+
+# IDEs
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
